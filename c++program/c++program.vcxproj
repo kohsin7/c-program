@@ -141,6 +141,11 @@
   <ItemGroup>
     <ClCompile Include="01-helloworld.cpp" />
     <ClCompile Include="02-变量常量.cpp" />
+    <ClCompile Include="03-函数.cpp" />
+    <ClCompile Include="function.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

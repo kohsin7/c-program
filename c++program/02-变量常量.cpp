@@ -9,7 +9,7 @@ using namespace std;
 //sizeof关键字: 内存空间
 
 #define Day = 7;
-int main() {
+//int main() {
 #pragma region Sizeof关键字
 	/*const int mouth = 24;
 	cout << "int 大小 " << sizeof(int) << endl;*/
@@ -83,6 +83,6 @@ int main() {
 #pragma endregion
 
 
-	system("pause");
-	return 0;
-}
+//	system("pause");
+//	return 0;
+//}

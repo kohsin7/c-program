@@ -21,5 +21,16 @@
     <ClCompile Include="02-变量常量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03-函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
